@@ -1,0 +1,170 @@
+{
+  "source": "https://www.binance.com/bapi/composite/v1/public/cms/article/list/query recorded 2026-10-27",
+  "catalogs": {
+    "48": {
+      "code": "000000",
+      "message": null,
+      "messageDetail": null,
+      "data": {
+        "catalogs": [
+          {
+            "catalogId": 48,
+            "parentCatalogId": null,
+            "catalogName": "New Cryptocurrency Listing",
+            "description": null,
+            "catalogType": 1,
+            "total": 2289,
+            "articles": [
+              {
+                "id": 288312,
+                "code": "8a61b05a34694eab8e2044b6e005e85a",
+                "title": "Notice on New Trading Pairs & Trading Bots Services on Binance Spot - 2026-10-28",
+                "type": 1,
+                "releaseDate": 1792999800000
+              },
+              {
+                "id": 288334,
+                "code": "02d204fc963f4f8687599fc22a13d538",
+                "title": "Binance Futures Will Launch Multiple TradFi USD\u24c8-Margined Perpetual Contracts (2026-10-26)",
+                "type": 1,
+                "releaseDate": 1792995301713
+              },
+              {
+                "id": 288295,
+                "code": "5ef55cf8358e4a48b2512a156e89c8e5",
+                "title": "Binance Futures Will Launch USD\u24c8-Margined PREDICTUSDT Perpetual Contract Pre-Market Trading (2026-10-25)",
+                "type": 1,
+                "releaseDate": 1792911915552
+              },
+              {
+                "id": 288076,
+                "code": "3afa938f499d403382d01d0c0644507e",
+                "title": "Binance Will Add 5 bStocks Tokenized Securities as Collateral Asset - 2026-10-21",
+                "type": 1,
+                "releaseDate": 1792553471286
+              },
+              {
+                "id": 288073,
+                "code": "b965e028041c4d0fbb4291372f55e4d4",
+                "title": "Binance Exchange Adds RoboStrategy Inc (BOTB), Berkshire Hathaway (BRKBB), KraneShares STAR Market 50 ETF (KSTRB), Direxion Daily 20 Year Treasury Bull 3X ETF (TMFB) and Vistra Corp (VSTB) bStocks Trading Pairs on Binance Spot/Convert - 2026-10-21",
+                "type": 1,
+                "releaseDate": 1792551612952
+              }
+            ]
+          }
+        ]
+      },
+      "success": true
+    },
+    "49": {
+      "code": "000000",
+      "message": null,
+      "messageDetail": null,
+      "data": {
+        "catalogs": [
+          {
+            "catalogId": 49,
+            "parentCatalogId": null,
+            "catalogName": "Latest Binance News",
+            "description": null,
+            "catalogType": 1,
+            "total": 4467,
+            "articles": [
+              {
+                "id": 288480,
+                "code": "5b6849270abd4e41a98d94abbf7b28f0",
+                "title": "Update on the Collateral Ratio Under Cross Margin and Portfolio Margin (2026-10-30)",
+                "type": 1,
+                "releaseDate": 1793091607580
+              },
+              {
+                "id": 288454,
+                "code": "98f858ce2402474a88369532d54494ef",
+                "title": "Binance to Adjust Leverage on Select Isolated Margin Trading Pairs",
+                "type": 1,
+                "releaseDate": 1793084414462
+              },
+              {
+                "id": 288398,
+                "code": "4688df6f250848478383acf772a7424c",
+                "title": "Updates on Tick Size for Multiple USD\u24c8-M Perpetual Futures Contracts (2026-10-28)",
+                "type": 1,
+                "releaseDate": 1793070007235
+              },
+              {
+                "id": 288264,
+                "code": "b3609ecc681f4be1a56da77f5fd26c9f",
+                "title": "Binance Will Support the ASML Holding N.V. (ASML) and Nokia Corporation (NOK) Cash Dividend Distribution via bStocks",
+                "type": 1,
+                "releaseDate": 1792731607238
+              },
+              {
+                "id": 288175,
+                "code": "929cf3d29e21443fad70c9eca98bed23",
+                "title": "Updates on Tick Size for Spot Trading Pairs (2026-10-29)",
+                "type": 1,
+                "releaseDate": 1792638009062
+              }
+            ]
+          }
+        ]
+      },
+      "success": true
+    },
+    "161": {
+      "code": "000000",
+      "message": null,
+      "messageDetail": null,
+      "data": {
+        "catalogs": [
+          {
+            "catalogId": 161,
+            "parentCatalogId": null,
+            "catalogName": "Delisting",
+            "description": null,
+            "catalogType": 1,
+            "total": 446,
+            "articles": [
+              {
+                "id": 288429,
+                "code": "de45689cbd7b4e1fa87055cdf5a85997",
+                "title": "Notice of Removal of Spot Trading Pairs - 2026-10-30",
+                "type": 1,
+                "releaseDate": 1793089800000
+              },
+              {
+                "id": 288467,
+                "code": "b4015154ce33445ebf7b98d1bc12c072",
+                "title": "Notice of Removal of Margin Trading Pairs - 2026-10-30",
+                "type": 1,
+                "releaseDate": 1793088009176
+              },
+              {
+                "id": 288285,
+                "code": "ab3a0eac9e614819b7b6fa0c03504b1f",
+                "title": "Binance Alpha Will Remove PTB, AA, OWL, DORA, ELIZAOS, MEMES, \u54ed\u54ed\u9a6c  (2026-10-23)",
+                "type": 1,
+                "releaseDate": 1792747808273
+              },
+              {
+                "id": 288155,
+                "code": "c30e6891afa54651ba950f8af144f861",
+                "title": "Binance Futures Will Delist PTBUSDT and MITOUSDT USD\u24c8-M Perpetual Contracts (2026-10-23)",
+                "type": 1,
+                "releaseDate": 1792575001882
+              },
+              {
+                "id": 287933,
+                "code": "ad54863d7b0446ebae48bbf3b868ee20",
+                "title": "Notice of Removal of Spot Trading Pairs - 2026-10-23",
+                "type": 1,
+                "releaseDate": 1792485000000
+              }
+            ]
+          }
+        ]
+      },
+      "success": true
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "symbol": "SOLUSDT",
+  "markPrice": "100.91463682",
+  "indexPrice": "100.94587960",
+  "estimatedSettlePrice": "100.94587960",
+  "lastFundingRate": "7.4E-7",
+  "interestRate": "0.00010000",
+  "nextFundingTime": 1790812800000,
+  "time": 1793059199999,
+  "_fundingTime": 1790784000002,
+  "_note": "markPrice and indexPrice are the last 5m closes on 2026-10-26 from data.binance.vision. lastFundingRate is the final print in the 2026-09 funding archive (the 2026-10 file was not published, and fapi.binance.com returned HTTP 451 while these fixtures were recorded)."
+}

@@ -1,0 +1,21 @@
+{
+  "name": "crypto-trader-skill",
+  "description": "Claude skills for Binance USDT-M perpetual futures: scan, funding, entries, exits with leverage, a time machine, sizing, risk, paper tickets. Not financial advice.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Jake Schincariol",
+    "url": "https://opusjake.ai"
+  },
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "claude-skills",
+    "crypto",
+    "binance",
+    "usdt-m",
+    "perpetual-futures",
+    "paper-trading",
+    "funding-rate"
+  ],
+  "skills": "./"
+}

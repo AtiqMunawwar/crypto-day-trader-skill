@@ -1,0 +1,14 @@
+{
+  "source": "Crafted /fapi/v1/ticker/24hr rows for mover and pump tests. Shapes match the live endpoint.",
+  "tickers": [
+    {"symbol": "BTCUSDT", "priceChangePercent": "1.20", "lastPrice": "80115.90", "highPrice": "81000.00", "lowPrice": "79000.00", "quoteVolume": "2500000000"},
+    {"symbol": "ETHUSDT", "priceChangePercent": "-0.80", "lastPrice": "2323.45", "highPrice": "2360.00", "lowPrice": "2300.00", "quoteVolume": "900000000"},
+    {"symbol": "SOLUSDT", "priceChangePercent": "3.10", "lastPrice": "106.63", "highPrice": "108.00", "lowPrice": "102.00", "quoteVolume": "180000000"},
+    {"symbol": "XRPUSDT", "priceChangePercent": "-2.40", "lastPrice": "1.3086", "highPrice": "1.3600", "lowPrice": "1.2800", "quoteVolume": "120000000"},
+    {"symbol": "BNBUSDT", "priceChangePercent": "0.40", "lastPrice": "743.35", "highPrice": "750.00", "lowPrice": "735.00", "quoteVolume": "80000000"},
+    {"symbol": "WIFUSDT", "priceChangePercent": "48.00", "lastPrice": "0.4200", "highPrice": "0.4500", "lowPrice": "0.2700", "quoteVolume": "9000000"},
+    {"symbol": "TINYUSDT", "priceChangePercent": "-33.00", "lastPrice": "0.0400", "highPrice": "0.0700", "lowPrice": "0.0350", "quoteVolume": "800000"},
+    {"symbol": "BTCUSDT_251226", "priceChangePercent": "9.00", "lastPrice": "80000", "highPrice": "81000", "lowPrice": "79000", "quoteVolume": "10000000"},
+    {"symbol": "ETHUSDC", "priceChangePercent": "6.00", "lastPrice": "2300", "highPrice": "2400", "lowPrice": "2200", "quoteVolume": "50000000"}
+  ]
+}

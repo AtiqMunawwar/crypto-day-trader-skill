@@ -1,0 +1,7 @@
+{
+  "rules": [
+    {"id": "sol-stop", "symbol": "SOLUSDT", "type": "stop", "price": 98.0, "side": "buy", "note": "plan stop"},
+    {"id": "sol-target", "symbol": "SOLUSDT", "type": "target", "price": 104.0, "side": "buy", "note": "plan target"},
+    {"id": "sol-hold", "symbol": "SOLUSDT", "type": "time", "at": "2026-10-26T08:20:00Z", "note": "hold window ends"}
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "symbol": "SOLUSDT",
+  "priceChange": "-0.4200",
+  "priceChangePercent": "-0.414",
+  "lastPrice": "100.9100",
+  "openPrice": "101.3300",
+  "highPrice": "102.7100",
+  "lowPrice": "99.8100",
+  "volume": "13212211.14",
+  "quoteVolume": "1335309788.2886",
+  "openTime": 1792972800000,
+  "closeTime": 1793059199999,
+  "count": 1637995,
+  "_note": "Aggregated from SOLUSDT 5m futures klines on 2026-10-26. Same fields as /fapi/v1/ticker/24hr."
+}
